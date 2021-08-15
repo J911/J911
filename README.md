@@ -110,7 +110,3 @@ Capstone Design Project (HBNU)
 - **Tools:** Git, Docker, Redis, PM2, Wireshark, Android Studio, Google Analytics ...
 - **ETC:** MQTT, Websocket, WebRTC ...
 
----
-![J911's GitHub stats](https://github-readme-stats.vercel.app/api?username=J911&show_icons=true&theme=radical)
-
-
