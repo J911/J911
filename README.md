@@ -78,14 +78,14 @@ Capstone Design Project (HBNU)
 ---
 
 
-**🎓Academic background**
+**�Academic background**
 
 - **한밭대학교 정보통신대학원 석사과정**
 - **한밭대학교**에서 **정보통신공학** 학사과정 전공
 - 학사 과정 **4년 전체 학기 전액 장학생** (미래인재육성장학재단)
 
 
-**📄Publications**
+**Publications (journal-article)**
 
 - Sequential Feature Filtering Classifier [[IEEE Access]](https://arxiv.org/abs/2006.11808)
 - Exploiting Features with Split-and-Share Module [[Arxiv]](http://arxiv.org/abs/2108.04500v2)
