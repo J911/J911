@@ -78,7 +78,7 @@ Capstone Design Project (HBNU)
 ---
 
 
-**�Academic background**
+**Academic background**
 
 - **한밭대학교 정보통신대학원 석사과정**
 - **한밭대학교**에서 **정보통신공학** 학사과정 전공
