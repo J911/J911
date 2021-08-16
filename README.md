@@ -38,7 +38,7 @@ MVC 기반의 REST API Back-end와 Vue 기반의 Front-end로 구성이 되어�
 
 ---
 
-**Contact Me**
+**Contact with me**
 
 - Email: [j911.public@gmail.com](mailto:j911.public@gmail.com)
 
