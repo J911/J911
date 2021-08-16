@@ -10,7 +10,7 @@
 
 ---
 
-**API 기반 Back-end 시스템 개발을 좋아힙니다.**
+**API 기반 Back-end 시스템 개발을 좋아합니다.**
 
 제 깃허브에 공개된 [codeveloper](https://github.com/J911/codeveloper)는 2018년 개발한 저의 첫 완성 프로젝트이자 가장 애정이 가는 프로젝트입니다.
 MVC 기반의 REST API Back-end와 Vue 기반의 Front-end로 구성이 되어있습니다.  
