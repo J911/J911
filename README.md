@@ -28,7 +28,7 @@
 **Contact with me**
 - Email: [j911.public@gmail.com](mailto:j911.public@gmail.com)
 - CV: [CV.pdf](https://github.com/J911/J911/raw/main/CV.pdf)
-- ORCID: [0000-0002-2154-300X](https://orcid.org/0000-0002-2154-300X)
+- Scholar: [google scholar](https://scholar.google.com/citations?user=h1R6SZMAAAAJ&hl=ko&oi=sra)
 - linkedIn: [@J911](https://www.linkedin.com/in/j911/)
 - Google Site: [google site](https://sites.google.com/view/j911/home)
 
