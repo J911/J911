@@ -1,20 +1,40 @@
-안녕하세요 이재민입니다.
+### Hello, I'm **Jaemin Lee**, deep learning researcher.
 
-**Links**
+**Research Interest:**
 
+- Machine learning related to generalization such as Domain Adaptation(DA), Semi-Supervised Learning(SSL), and Active Learning(AL). 
+- Low-level computer vision tasks such as Semantic Segmentation, Depth Completion, and Stereo Matching.
+
+
+**Selected Publications**
+(* equal contribution)
+
+- Towards the Human Global Context: Does the Vision-Language Model Really Judge Like a Human Being?
+  - Sangmyeong Woh*, **Jaemin Lee***, Ho joong Kim, Jinsuk Lee
+  - arXiv preprint arXiv:2207.08333 ,  2022
+
+- A Self-Supervised Sampler for Efficient Action Recognition: Real-World Applications in Surveillance System
+  - MinSeok Seo*, Donghyeon Cho*, SangWoo Lee*, Jongchan Park, Daehan Kim, **Jaemin Lee**, Jingi Ju, Hyeoncheol Noh, and Dong-Geol Choi
+  - IEEE Robotics and Automation Letters (RA-L) with ICRA ,  2022
+
+- Exploiting Features with Split-and-Share Module
+  - **Jaemin Lee***, Minseok Seo*, Daehan Kim,*  Sangwoo Lee, Jongchan Park, Dong-Geol Choi
+  - MDPI Electronics, 2022
+
+- Sequential feature filtering classifier
+  - Minseok Seo*, **Jaemin Lee***, Jongchan Park, Daehan Kim, Dong-Geol Choi
+  - IEEE Access, 2021
+
+**Contact with me**
+- Email: [j911.public@gmail.com](mailto:j911.public@gmail.com)
 - CV: [CV.pdf](https://github.com/J911/J911/raw/main/CV.pdf)
 - ORCID: [0000-0002-2154-300X](https://orcid.org/0000-0002-2154-300X)
 - linkedIn: [@J911](https://www.linkedin.com/in/j911/)
-- Instagram: [@jaemin_lee_0911](https://www.instagram.com/jaemin_lee_0911/)
-
+- Google Site: [google site](https://sites.google.com/view/j911/home)
 
 ---
+If you want to know more about me visit [here](https://sites.google.com/view/j911/home).
 
-**Contact with me**
-
-- Email: [j911.public@gmail.com](mailto:j911.public@gmail.com)
-
-
-
+---
 
 
