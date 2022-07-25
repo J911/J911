@@ -9,19 +9,19 @@
 **Selected Publications**
 (* equal contribution)
 
-- Towards the Human Global Context: Does the Vision-Language Model Really Judge Like a Human Being?
+- [Towards the Human Global Context: Does the Vision-Language Model Really Judge Like a Human Being?](https://arxiv.org/pdf/2207.08333.pdf)
   - Sangmyeong Woh*, **Jaemin Lee***, Ho joong Kim, Jinsuk Lee
-  - arXiv preprint arXiv:2207.08333 ,  2022
+  - arXiv preprint arXiv:2207.08333,  2022
 
-- A Self-Supervised Sampler for Efficient Action Recognition: Real-World Applications in Surveillance System
+- [A Self-Supervised Sampler for Efficient Action Recognition: Real-World Applications in Surveillance System](https://ieeexplore.ieee.org/document/9667179)
   - MinSeok Seo*, Donghyeon Cho*, SangWoo Lee*, Jongchan Park, Daehan Kim, **Jaemin Lee**, Jingi Ju, Hyeoncheol Noh, and Dong-Geol Choi
   - IEEE Robotics and Automation Letters (RA-L) with ICRA ,  2022
 
-- Exploiting Features with Split-and-Share Module
+- [Exploiting Features with Split-and-Share Module](https://www.mdpi.com/2079-9292/11/2/235)
   - **Jaemin Lee***, Minseok Seo*, Daehan Kim,*  Sangwoo Lee, Jongchan Park, Dong-Geol Choi
   - MDPI Electronics, 2022
 
-- Sequential feature filtering classifier
+- [Sequential feature filtering classifier](https://arxiv.org/abs/2006.11808)
   - Minseok Seo*, **Jaemin Lee***, Jongchan Park, Daehan Kim, Dong-Geol Choi
   - IEEE Access, 2021
 
