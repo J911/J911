@@ -10,6 +10,10 @@
 **Selected Publications**
 (* equal contribution)
 
+- [A Multi-In-Single-Out Network for Video Frame Interpolation without Optical Flow](https://arxiv.org/abs/2311.11602)
+  - Jaemin Lee, Minseok Seo, Sangwoo Lee, Hyobin Park, Dong-Geol Choi
+  - arXiv preprint arXiv:2311.11602,  2023
+
 - [Towards the Human Global Context: Does the Vision-Language Model Really Judge Like a Human Being?](https://arxiv.org/pdf/2207.08333.pdf)
   - Sangmyeong Woh*, **Jaemin Lee***, Ho joong Kim, Jinsuk Lee
   - arXiv preprint arXiv:2207.08333,  2022
